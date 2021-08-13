@@ -1,0 +1,54 @@
+#Bg {
+Background-color:yellow;
+Background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/1200px-Image_created_with_a_mobile_phone.png'), url('https://www.clipartmax.com/png/middle/2-26952_flame-clipart-transparent-flame.png');
+Background-repeat:no-repeat;
+background-position:left top, right bottom;
+Background-size:500px 400px, 300px 400px;
+background-attachment:fixed;
+border-style:double solid groove ridge;
+border-width:10px 5px 15px 15px;
+border-color:red blue green blue;
+/*border-top-left-radius:20px;
+border-bottom-right-radius:20px;*/
+border-radius: 20px 15px 10px 5px;
+/*border-radius:50%;*/
+width:300px;
+height:500px;
+max-width:70%;
+max-height:400px;
+min-height:300px;
+min-width:5%;
+padding: 15px 80px 100px;
+/*padding-top:30%;
+padding-bottom:20px;
+padding-right:20%;
+padding-left:40px;*/
+direction:rtl;
+text-decoration:underline;
+line-height:30px;
+letter-spacing:5px;
+/*white-space:pre, nowrap, */
+word-wrap:break-word;
+}
+
+#div2 {
+border: 5px solid green;
+width: 500px;
+padding-left:px;
+margin-left:60%;
+color:green;
+text-align:justify;
+text-transform:capitalize;
+text-indent:50px;
+word-spacing:10px;
+}
+ #textshadow {
+font-size:70px;
+text-shadow:10px 5px 3px red;
+transform: rotate(-90deg);
+position: fixed;
+left: -100px;
+bottom: 200px;
+
+
+ }
